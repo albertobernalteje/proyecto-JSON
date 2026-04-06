@@ -1,0 +1,1057 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Rímel Essence Lash Princess",
+      "descripcion": "Rímel popular por sus efectos de volumen y alargamiento. Consigue unas pestañas dramáticas con esta fórmula duradera y libre de crueldad animal.",
+      "categoria": "belleza",
+      "precio": 9.99,
+      "porcentaje_descuento": 10.48,
+      "puntuacion": 2.56,
+      "stock": 99,
+      "etiquetas": ["belleza", "rímel"],
+      "marca": "Essence",
+      "sku": "BEA-ESS-ESS-001",
+      "peso_g": 4,
+      "dimensiones": {
+        "ancho_cm": 15.14,
+        "alto_cm": 13.08,
+        "profundidad_cm": 22.99
+      },
+      "garantia": "1 semana",
+      "envio": "Envío en 3-5 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 3, "comentario": "No lo recomendaría.", "fecha": "2024-11-10", "nombre_revisor": "Elena Collins"},
+        {"puntuacion": 4, "comentario": "Muy satisfecha.", "fecha": "2024-12-01", "nombre_revisor": "Lucas Gordon"},
+        {"puntuacion": 5, "comentario": "Muy impresionada.", "fecha": "2025-01-15", "nombre_revisor": "María López"}
+      ],
+      "politica_devolucion": "Sin devoluciones",
+      "cantidad_minima_pedido": 48,
+      "meta": {
+        "fecha_creacion": "2024-01-01",
+        "codigo_barras": "5784719087687"
+      },
+      "en_oferta": true,
+      "proveedor": "Cosméticos Europa S.L."
+    },
+    {
+      "id": 2,
+      "nombre": "Polvo Compacto Lancome Hypnose",
+      "descripcion": "Polvo compacto de larga duración con acabado satinado. Proporciona una cobertura natural y uniforme para todo tipo de pieles.",
+      "categoria": "belleza",
+      "precio": 19.99,
+      "porcentaje_descuento": 8.25,
+      "puntuacion": 3.80,
+      "stock": 45,
+      "etiquetas": ["belleza", "maquillaje", "polvo"],
+      "marca": "Lancôme",
+      "sku": "BEA-LAN-POL-002",
+      "peso_g": 12,
+      "dimensiones": {
+        "ancho_cm": 9.50,
+        "alto_cm": 2.80,
+        "profundidad_cm": 9.50
+      },
+      "garantia": "2 años",
+      "envio": "Envío en 1-3 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 4, "comentario": "Buena cobertura y duradera.", "fecha": "2024-10-05", "nombre_revisor": "Ana Martínez"},
+        {"puntuacion": 3, "comentario": "Color no del todo exacto.", "fecha": "2024-11-20", "nombre_revisor": "Sofía Ruiz"},
+        {"puntuacion": 5, "comentario": "Perfecto para piel mixta.", "fecha": "2025-01-02", "nombre_revisor": "Carmen Vidal"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 10,
+      "meta": {
+        "fecha_creacion": "2024-02-15",
+        "codigo_barras": "3614271110708"
+      },
+      "en_oferta": false,
+      "proveedor": "Distribuciones Belleza S.A."
+    },
+    {
+      "id": 3,
+      "nombre": "Sérum Vitamina C CeraVe",
+      "descripcion": "Sérum con vitamina C y ácido hialurónico que ilumina y unifica el tono de la piel. Fórmula no comedogénica y dermatológicamente probada.",
+      "categoria": "cuidado_piel",
+      "precio": 24.99,
+      "porcentaje_descuento": 5.00,
+      "puntuacion": 4.50,
+      "stock": 120,
+      "etiquetas": ["cuidado piel", "sérum", "vitamina C"],
+      "marca": "CeraVe",
+      "sku": "SKI-CER-SER-003",
+      "peso_g": 30,
+      "dimensiones": {
+        "ancho_cm": 4.20,
+        "alto_cm": 12.00,
+        "profundidad_cm": 4.20
+      },
+      "garantia": "1 año",
+      "envio": "Envío en 2-4 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "Mi piel nunca había estado tan luminosa.", "fecha": "2024-09-18", "nombre_revisor": "Isabel Fernández"},
+        {"puntuacion": 4, "comentario": "Muy buen producto, algo caro.", "fecha": "2024-10-22", "nombre_revisor": "Patricia Gómez"},
+        {"puntuacion": 4, "comentario": "Resultados visibles en dos semanas.", "fecha": "2025-02-01", "nombre_revisor": "Rosa Navarro"}
+      ],
+      "politica_devolucion": "60 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-03-10",
+        "codigo_barras": "3606000594562"
+      },
+      "en_oferta": true,
+      "proveedor": "Farmacia Digital S.L."
+    },
+    {
+      "id": 4,
+      "nombre": "Perfume Chanel Nº5",
+      "descripcion": "Icónico perfume floral aldehídico con notas de ylang-ylang, jazmín y sándalo. Un clásico atemporal de la perfumería francesa.",
+      "categoria": "fragancias",
+      "precio": 89.99,
+      "porcentaje_descuento": 0.00,
+      "puntuacion": 4.80,
+      "stock": 30,
+      "etiquetas": ["fragancia", "perfume", "lujo"],
+      "marca": "Chanel",
+      "sku": "FRA-CHA-N5-004",
+      "peso_g": 150,
+      "dimensiones": {
+        "ancho_cm": 6.00,
+        "alto_cm": 14.00,
+        "profundidad_cm": 4.50
+      },
+      "garantia": "Sin garantía",
+      "envio": "Envío en 1-2 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "El mejor perfume del mundo.", "fecha": "2024-08-10", "nombre_revisor": "Claudia Moreno"},
+        {"puntuacion": 5, "comentario": "Duración excepcional.", "fecha": "2024-09-05", "nombre_revisor": "Beatriz Santos"},
+        {"puntuacion": 4, "comentario": "Muy bueno pero demasiado caro.", "fecha": "2024-12-20", "nombre_revisor": "Marta Gil"}
+      ],
+      "politica_devolucion": "Sin devoluciones",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-01-20",
+        "codigo_barras": "3145891254773"
+      },
+      "en_oferta": false,
+      "proveedor": "Lujo & Moda S.A."
+    },
+    {
+      "id": 5,
+      "nombre": "Crema Hidratante Neutrogena",
+      "descripcion": "Crema hidratante de uso diario con factor de protección solar SPF 15. Absorción rápida y textura ligera para piel normal y mixta.",
+      "categoria": "cuidado_piel",
+      "precio": 12.49,
+      "porcentaje_descuento": 15.00,
+      "puntuacion": 4.10,
+      "stock": 200,
+      "etiquetas": ["cuidado piel", "hidratante", "SPF"],
+      "marca": "Neutrogena",
+      "sku": "SKI-NEU-CRE-005",
+      "peso_g": 75,
+      "dimensiones": {
+        "ancho_cm": 5.80,
+        "alto_cm": 8.20,
+        "profundidad_cm": 3.90
+      },
+      "garantia": "1 año",
+      "envio": "Envío en 2-3 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 4, "comentario": "Muy buena hidratación diaria.", "fecha": "2024-07-14", "nombre_revisor": "Laura Pérez"},
+        {"puntuacion": 5, "comentario": "El SPF es un plus estupendo.", "fecha": "2024-08-30", "nombre_revisor": "Julia Torres"},
+        {"puntuacion": 3, "comentario": "Deja algo de brillos.", "fecha": "2025-01-08", "nombre_revisor": "Nuria Blanco"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-04-05",
+        "codigo_barras": "0062600557007"
+      },
+      "en_oferta": true,
+      "proveedor": "Farmacia Digital S.L."
+    },
+    {
+      "id": 6,
+      "nombre": "Auriculares Sony WH-1000XM5",
+      "descripcion": "Auriculares inalámbricos con cancelación de ruido líder en el sector. Hasta 30 horas de batería y carga rápida de 3 minutos para 3 horas de uso.",
+      "categoria": "electronica",
+      "precio": 279.99,
+      "porcentaje_descuento": 12.00,
+      "puntuacion": 4.90,
+      "stock": 55,
+      "etiquetas": ["auriculares", "cancelación ruido", "inalámbrico"],
+      "marca": "Sony",
+      "sku": "ELE-SON-WH5-006",
+      "peso_g": 250,
+      "dimensiones": {
+        "ancho_cm": 18.50,
+        "alto_cm": 21.00,
+        "profundidad_cm": 8.00
+      },
+      "garantia": "2 años",
+      "envio": "Envío en 1-2 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "La cancelación de ruido es increíble.", "fecha": "2024-06-20", "nombre_revisor": "Alejandro Ramos"},
+        {"puntuacion": 5, "comentario": "Sonido perfecto y muy cómodos.", "fecha": "2024-09-12", "nombre_revisor": "David Sanz"},
+        {"puntuacion": 4, "comentario": "Muy buenos, un poco caros.", "fecha": "2024-11-30", "nombre_revisor": "Pablo Molina"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-02-01",
+        "codigo_barras": "4548736141063"
+      },
+      "en_oferta": true,
+      "proveedor": "TechDistribución S.L."
+    },
+    {
+      "id": 7,
+      "nombre": "Smartphone Samsung Galaxy S24",
+      "descripcion": "Teléfono inteligente con pantalla Dynamic AMOLED de 6.2 pulgadas, procesador Exynos 2400 y cámara principal de 50 MP con IA.",
+      "categoria": "electronica",
+      "precio": 849.99,
+      "porcentaje_descuento": 5.00,
+      "puntuacion": 4.70,
+      "stock": 40,
+      "etiquetas": ["smartphone", "samsung", "android"],
+      "marca": "Samsung",
+      "sku": "ELE-SAM-S24-007",
+      "peso_g": 167,
+      "dimensiones": {
+        "ancho_cm": 7.06,
+        "alto_cm": 14.70,
+        "profundidad_cm": 0.76
+      },
+      "garantia": "2 años",
+      "envio": "Envío en 1-2 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "El mejor Android que he tenido.", "fecha": "2024-05-10", "nombre_revisor": "Miguel Ángel Castro"},
+        {"puntuacion": 4, "comentario": "Cámara espectacular, batería mejorable.", "fecha": "2024-07-22", "nombre_revisor": "Sergio Herrera"},
+        {"puntuacion": 5, "comentario": "Muy rápido y bonito diseño.", "fecha": "2024-10-15", "nombre_revisor": "Raúl Jiménez"}
+      ],
+      "politica_devolucion": "14 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-01-17",
+        "codigo_barras": "8806095075724"
+      },
+      "en_oferta": false,
+      "proveedor": "TechDistribución S.L."
+    },
+    {
+      "id": 8,
+      "nombre": "Portátil Apple MacBook Air M3",
+      "descripcion": "Portátil ultraligero con chip Apple M3, pantalla Liquid Retina de 13 pulgadas y hasta 18 horas de autonomía. Sin ventilador, silencioso y potente.",
+      "categoria": "electronica",
+      "precio": 1299.00,
+      "porcentaje_descuento": 0.00,
+      "puntuacion": 4.85,
+      "stock": 20,
+      "etiquetas": ["portátil", "apple", "macbook"],
+      "marca": "Apple",
+      "sku": "ELE-APP-MBA-008",
+      "peso_g": 1240,
+      "dimensiones": {
+        "ancho_cm": 30.41,
+        "alto_cm": 1.13,
+        "profundidad_cm": 21.50
+      },
+      "garantia": "1 año",
+      "envio": "Envío en 2-4 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "El mejor portátil que he tenido jamás.", "fecha": "2024-04-18", "nombre_revisor": "Alberto García"},
+        {"puntuacion": 5, "comentario": "Rendimiento brutal con batería increíble.", "fecha": "2024-06-09", "nombre_revisor": "Irene Castillo"},
+        {"puntuacion": 4, "comentario": "Perfecto pero muy caro.", "fecha": "2024-09-25", "nombre_revisor": "Francisco Ortega"}
+      ],
+      "politica_devolucion": "14 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-03-08",
+        "codigo_barras": "0194253411239"
+      },
+      "en_oferta": false,
+      "proveedor": "Apple Distribuciones S.A."
+    },
+    {
+      "id": 9,
+      "nombre": "Teclado Mecánico Logitech G Pro X",
+      "descripcion": "Teclado mecánico gaming con switches intercambiables en caliente, retroiluminación RGB por tecla y diseño tenkeyless compacto.",
+      "categoria": "informatica",
+      "precio": 119.99,
+      "porcentaje_descuento": 18.00,
+      "puntuacion": 4.60,
+      "stock": 75,
+      "etiquetas": ["teclado", "gaming", "mecánico"],
+      "marca": "Logitech",
+      "sku": "INF-LOG-GPX-009",
+      "peso_g": 980,
+      "dimensiones": {
+        "ancho_cm": 36.10,
+        "alto_cm": 3.60,
+        "profundidad_cm": 15.30
+      },
+      "garantia": "2 años",
+      "envio": "Envío en 2-3 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "El mejor teclado gaming del mercado.", "fecha": "2024-03-12", "nombre_revisor": "Javier Morales"},
+        {"puntuacion": 4, "comentario": "Muy buen tacto, algo caro.", "fecha": "2024-05-28", "nombre_revisor": "Adrián Suárez"},
+        {"puntuacion": 5, "comentario": "Switches perfectos para gaming.", "fecha": "2024-08-14", "nombre_revisor": "Cristian López"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-02-20",
+        "codigo_barras": "5099206082359"
+      },
+      "en_oferta": true,
+      "proveedor": "TechDistribución S.L."
+    },
+    {
+      "id": 10,
+      "nombre": "Ratón Inalámbrico Microsoft Arc",
+      "descripcion": "Ratón inalámbrico ultrafino y plegable con diseño ergonómico. Compatible con Windows y macOS, conexión Bluetooth y hasta 6 meses de batería.",
+      "categoria": "informatica",
+      "precio": 49.99,
+      "porcentaje_descuento": 10.00,
+      "puntuacion": 3.90,
+      "stock": 90,
+      "etiquetas": ["ratón", "inalámbrico", "microsoft"],
+      "marca": "Microsoft",
+      "sku": "INF-MIC-ARC-010",
+      "peso_g": 92,
+      "dimensiones": {
+        "ancho_cm": 6.00,
+        "alto_cm": 1.80,
+        "profundidad_cm": 12.50
+      },
+      "garantia": "1 año",
+      "envio": "Envío en 2-3 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 4, "comentario": "Diseño muy original y cómodo.", "fecha": "2024-04-07", "nombre_revisor": "Elena Díaz"},
+        {"puntuacion": 3, "comentario": "La batería dura menos de lo prometido.", "fecha": "2024-06-15", "nombre_revisor": "Roberto Peña"},
+        {"puntuacion": 4, "comentario": "Muy portátil, ideal para viajes.", "fecha": "2024-09-03", "nombre_revisor": "Sandra Flores"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-01-30",
+        "codigo_barras": "0889842939491"
+      },
+      "en_oferta": true,
+      "proveedor": "Ofimedia S.L."
+    },
+    {
+      "id": 11,
+      "nombre": "Zapatillas Nike Air Max 270",
+      "descripcion": "Zapatillas deportivas con unidad Air Max de 270 grados en el talón para máxima amortiguación. Diseño lifestyle con upper de malla transpirable.",
+      "categoria": "calzado",
+      "precio": 139.99,
+      "porcentaje_descuento": 20.00,
+      "puntuacion": 4.40,
+      "stock": 85,
+      "etiquetas": ["zapatillas", "nike", "running"],
+      "marca": "Nike",
+      "sku": "CAL-NIK-AM270-011",
+      "peso_g": 320,
+      "dimensiones": {
+        "ancho_cm": 30.00,
+        "alto_cm": 12.00,
+        "profundidad_cm": 11.00
+      },
+      "garantia": "2 años",
+      "envio": "Envío en 3-5 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "Comodísimas para el día a día.", "fecha": "2024-02-14", "nombre_revisor": "Diego Romero"},
+        {"puntuacion": 4, "comentario": "Muy buenas, talla un poco grande.", "fecha": "2024-04-20", "nombre_revisor": "Álvaro Serrano"},
+        {"puntuacion": 4, "comentario": "Diseño bonito y buena amortiguación.", "fecha": "2024-07-09", "nombre_revisor": "Hugo Navarro"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-01-10",
+        "codigo_barras": "0196150301642"
+      },
+      "en_oferta": true,
+      "proveedor": "Sport & More S.A."
+    },
+    {
+      "id": 12,
+      "nombre": "Camiseta Adidas Essentials",
+      "descripcion": "Camiseta deportiva de algodón con logo Adidas bordado. Corte regular, cuello redondo y disponible en múltiples colores. Lavable a máquina.",
+      "categoria": "ropa_deportiva",
+      "precio": 24.99,
+      "porcentaje_descuento": 0.00,
+      "puntuacion": 4.20,
+      "stock": 300,
+      "etiquetas": ["camiseta", "adidas", "deporte"],
+      "marca": "Adidas",
+      "sku": "DEP-ADI-CAM-012",
+      "peso_g": 180,
+      "dimensiones": {
+        "ancho_cm": 55.00,
+        "alto_cm": 72.00,
+        "profundidad_cm": 1.00
+      },
+      "garantia": "Sin garantía",
+      "envio": "Envío en 3-5 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 4, "comentario": "Buena calidad para el precio.", "fecha": "2024-03-05", "nombre_revisor": "Marcos Iglesias"},
+        {"puntuacion": 5, "comentario": "Muy cómoda y transpirable.", "fecha": "2024-05-17", "nombre_revisor": "Tomás Vargas"},
+        {"puntuacion": 3, "comentario": "Encoge algo al lavar.", "fecha": "2024-08-22", "nombre_revisor": "Rubén Campos"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 2,
+      "meta": {
+        "fecha_creacion": "2024-02-28",
+        "codigo_barras": "4065426050455"
+      },
+      "en_oferta": false,
+      "proveedor": "Sport & More S.A."
+    },
+    {
+      "id": 13,
+      "nombre": "Mochila Osprey Farpoint 40",
+      "descripcion": "Mochila de viaje de 40 litros con sistema de suspensión ajustable, panel de acceso tipo maleta y compartimento para portátil de hasta 15 pulgadas.",
+      "categoria": "viaje",
+      "precio": 169.99,
+      "porcentaje_descuento": 8.00,
+      "puntuacion": 4.75,
+      "stock": 35,
+      "etiquetas": ["mochila", "viaje", "senderismo"],
+      "marca": "Osprey",
+      "sku": "VIA-OSP-FAR-013",
+      "peso_g": 1420,
+      "dimensiones": {
+        "ancho_cm": 35.00,
+        "alto_cm": 60.00,
+        "profundidad_cm": 25.00
+      },
+      "garantia": "De por vida",
+      "envio": "Envío en 2-4 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "La mejor mochila de viaje que he tenido.", "fecha": "2024-01-25", "nombre_revisor": "Gonzalo Prieto"},
+        {"puntuacion": 5, "comentario": "Cabe todo y es muy cómoda.", "fecha": "2024-04-11", "nombre_revisor": "Verónica Lozano"},
+        {"puntuacion": 4, "comentario": "Muy buena calidad, algo cara.", "fecha": "2024-07-30", "nombre_revisor": "Natalia Rubio"}
+      ],
+      "politica_devolucion": "60 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-01-05",
+        "codigo_barras": "0843820103154"
+      },
+      "en_oferta": true,
+      "proveedor": "Aventura y Deporte S.L."
+    },
+    {
+      "id": 14,
+      "nombre": "Sartén Antiadherente Tefal Ingenio",
+      "descripcion": "Sartén antiadherente de 28 cm con mango desmontable compatible con horno. Revestimiento Titanium Excellence resistente a arañazos.",
+      "categoria": "hogar",
+      "precio": 39.99,
+      "porcentaje_descuento": 25.00,
+      "puntuacion": 4.30,
+      "stock": 110,
+      "etiquetas": ["cocina", "sartén", "antiadherente"],
+      "marca": "Tefal",
+      "sku": "HOG-TEF-SAR-014",
+      "peso_g": 750,
+      "dimensiones": {
+        "ancho_cm": 28.00,
+        "alto_cm": 5.50,
+        "profundidad_cm": 28.00
+      },
+      "garantia": "5 años",
+      "envio": "Envío en 2-4 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 4, "comentario": "El mango desmontable es muy práctico.", "fecha": "2024-02-08", "nombre_revisor": "Pilar Cano"},
+        {"puntuacion": 5, "comentario": "Nada se pega, limpieza facilísima.", "fecha": "2024-05-03", "nombre_revisor": "Consuelo Medina"},
+        {"puntuacion": 3, "comentario": "El revestimiento duró poco tiempo.", "fecha": "2024-10-18", "nombre_revisor": "Antonio Guerrero"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-03-22",
+        "codigo_barras": "3168430115888"
+      },
+      "en_oferta": true,
+      "proveedor": "Hogar Premium S.A."
+    },
+    {
+      "id": 15,
+      "nombre": "Cafetera Nespresso Vertuo Pop",
+      "descripcion": "Cafetera de cápsulas Vertuo con tecnología Centrifusion. Prepara hasta 5 tamaños de café con un toque. Depósito extraíble de 560 ml.",
+      "categoria": "hogar",
+      "precio": 79.99,
+      "porcentaje_descuento": 10.00,
+      "puntuacion": 4.55,
+      "stock": 60,
+      "etiquetas": ["café", "cafetera", "nespresso"],
+      "marca": "Nespresso",
+      "sku": "HOG-NES-VPO-015",
+      "peso_g": 2200,
+      "dimensiones": {
+        "ancho_cm": 13.30,
+        "alto_cm": 31.80,
+        "profundidad_cm": 24.20
+      },
+      "garantia": "2 años",
+      "envio": "Envío en 2-3 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "El café queda perfecto siempre.", "fecha": "2024-03-30", "nombre_revisor": "Esperanza Molero"},
+        {"puntuacion": 4, "comentario": "Muy fácil de usar y limpiar.", "fecha": "2024-06-14", "nombre_revisor": "Fernando Rivas"},
+        {"puntuacion": 5, "comentario": "Diseño precioso y funciona de lujo.", "fecha": "2024-11-05", "nombre_revisor": "Amparo Crespo"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-04-15",
+        "codigo_barras": "7630047636062"
+      },
+      "en_oferta": true,
+      "proveedor": "Hogar Premium S.A."
+    },
+    {
+      "id": 16,
+      "nombre": "Libro 'El Problema de los Tres Cuerpos'",
+      "descripcion": "Primera entrega de la aclamada trilogía de ciencia ficción de Liu Cixin. Una novela que mezcla historia, física y contacto extraterrestre de forma magistral.",
+      "categoria": "libros",
+      "precio": 18.90,
+      "porcentaje_descuento": 5.00,
+      "puntuacion": 4.65,
+      "stock": 150,
+      "etiquetas": ["libro", "ciencia ficción", "novela"],
+      "marca": "Nova",
+      "sku": "LIB-NOV-3CU-016",
+      "peso_g": 410,
+      "dimensiones": {
+        "ancho_cm": 13.50,
+        "alto_cm": 21.00,
+        "profundidad_cm": 3.20
+      },
+      "garantia": "Sin garantía",
+      "envio": "Envío en 2-4 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "Imposible dejarlo. Absolutamente brillante.", "fecha": "2024-02-22", "nombre_revisor": "Óscar Fuentes"},
+        {"puntuacion": 4, "comentario": "Muy bueno aunque algo denso al principio.", "fecha": "2024-05-09", "nombre_revisor": "Silvia Reyes"},
+        {"puntuacion": 5, "comentario": "La mejor novela de CF que he leído.", "fecha": "2024-08-17", "nombre_revisor": "Emilio Bravo"}
+      ],
+      "politica_devolucion": "Sin devoluciones",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-02-01",
+        "codigo_barras": "9788466658775"
+      },
+      "en_oferta": false,
+      "proveedor": "Editorial Nova S.L."
+    },
+    {
+      "id": 17,
+      "nombre": "Reloj Casio G-Shock GA-2100",
+      "descripcion": "Reloj deportivo resistente a golpes y agua hasta 200 m. Diseño octogonal ultrafino con correa de resina y funciones de mundo dual.",
+      "categoria": "relojes",
+      "precio": 89.00,
+      "porcentaje_descuento": 0.00,
+      "puntuacion": 4.50,
+      "stock": 70,
+      "etiquetas": ["reloj", "casio", "deportivo"],
+      "marca": "Casio",
+      "sku": "REL-CAS-GA21-017",
+      "peso_g": 51,
+      "dimensiones": {
+        "ancho_cm": 4.88,
+        "alto_cm": 4.51,
+        "profundidad_cm": 1.17
+      },
+      "garantia": "2 años",
+      "envio": "Envío en 2-3 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "Indestructible y con buen diseño.", "fecha": "2024-01-18", "nombre_revisor": "Guillermo Mora"},
+        {"puntuacion": 4, "comentario": "Muy bueno, la correa podría ser mejor.", "fecha": "2024-04-02", "nombre_revisor": "Ángel Delgado"},
+        {"puntuacion": 5, "comentario": "Relación calidad-precio imbatible.", "fecha": "2024-07-21", "nombre_revisor": "Rodrigo Vázquez"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-01-12",
+        "codigo_barras": "4971850110279"
+      },
+      "en_oferta": false,
+      "proveedor": "Relojes & Accesorios S.A."
+    },
+    {
+      "id": 18,
+      "nombre": "Bicicleta de Montaña BH Expert 29",
+      "descripcion": "Bicicleta de montaña con cuadro de aluminio, horquilla Rockshox y transmisión Shimano Deore de 12 velocidades. Ruedas de 29 pulgadas.",
+      "categoria": "deporte",
+      "precio": 899.00,
+      "porcentaje_descuento": 7.00,
+      "puntuacion": 4.70,
+      "stock": 12,
+      "etiquetas": ["bicicleta", "montaña", "ciclismo"],
+      "marca": "BH",
+      "sku": "DEP-BH-EXP-018",
+      "peso_g": 12500,
+      "dimensiones": {
+        "ancho_cm": 180.00,
+        "alto_cm": 110.00,
+        "profundidad_cm": 60.00
+      },
+      "garantia": "3 años",
+      "envio": "Envío en 5-7 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "Perfecta para rutas de montaña exigentes.", "fecha": "2024-03-15", "nombre_revisor": "Carlos Montero"},
+        {"puntuacion": 4, "comentario": "Muy buena relación calidad-precio.", "fecha": "2024-06-28", "nombre_revisor": "Víctor Alonso"},
+        {"puntuacion": 5, "comentario": "Shimano Deore va de lujo.", "fecha": "2024-09-10", "nombre_revisor": "Jorge Calvo"}
+      ],
+      "politica_devolucion": "14 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-02-10",
+        "codigo_barras": "8400811152831"
+      },
+      "en_oferta": true,
+      "proveedor": "Aventura y Deporte S.L."
+    },
+    {
+      "id": 19,
+      "nombre": "Mesa de Escritorio Flexispot E7",
+      "descripcion": "Mesa de escritorio regulable en altura eléctrica con motor dual silencioso. Tablero de 160x80 cm y rango de altura de 60 a 125 cm.",
+      "categoria": "oficina",
+      "precio": 549.00,
+      "porcentaje_descuento": 15.00,
+      "puntuacion": 4.60,
+      "stock": 18,
+      "etiquetas": ["mesa", "escritorio", "ergonómico"],
+      "marca": "Flexispot",
+      "sku": "OFI-FLE-E7-019",
+      "peso_g": 38000,
+      "dimensiones": {
+        "ancho_cm": 160.00,
+        "alto_cm": 125.00,
+        "profundidad_cm": 80.00
+      },
+      "garantia": "5 años",
+      "envio": "Envío en 7-10 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "Cambia la vida trabajar de pie.", "fecha": "2024-02-19", "nombre_revisor": "Lucía Herrero"},
+        {"puntuacion": 4, "comentario": "Motor muy silencioso, montaje algo difícil.", "fecha": "2024-05-26", "nombre_revisor": "Manuel Cabrera"},
+        {"puntuacion": 5, "comentario": "La mejor inversión para la oficina en casa.", "fecha": "2024-08-07", "nombre_revisor": "Raquel Nieto"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-03-01",
+        "codigo_barras": "6948613800339"
+      },
+      "en_oferta": true,
+      "proveedor": "Ofimedia S.L."
+    },
+    {
+      "id": 20,
+      "nombre": "Silla de Oficina Herman Miller Aeron",
+      "descripcion": "Silla ergonómica de oficina con soporte lumbar PostureFit SL, brazos ajustables en 8 direcciones y malla transpirable 8Z Pellicle.",
+      "categoria": "oficina",
+      "precio": 1349.00,
+      "porcentaje_descuento": 0.00,
+      "puntuacion": 4.95,
+      "stock": 8,
+      "etiquetas": ["silla", "ergonómica", "oficina"],
+      "marca": "Herman Miller",
+      "sku": "OFI-HM-AER-020",
+      "peso_g": 18600,
+      "dimensiones": {
+        "ancho_cm": 68.00,
+        "alto_cm": 109.00,
+        "profundidad_cm": 66.00
+      },
+      "garantia": "12 años",
+      "envio": "Envío en 5-7 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "La mejor silla del mercado sin duda.", "fecha": "2024-01-29", "nombre_revisor": "Inmaculada Torres"},
+        {"puntuacion": 5, "comentario": "Mi espalda te lo agradece cada día.", "fecha": "2024-04-16", "nombre_revisor": "Esteban Serrano"},
+        {"puntuacion": 5, "comentario": "Carísima pero merece cada euro.", "fecha": "2024-07-04", "nombre_revisor": "Dolores Fuentes"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-01-08",
+        "codigo_barras": "0786473482790"
+      },
+      "en_oferta": false,
+      "proveedor": "Ofimedia S.L."
+    },
+    {
+      "id": 21,
+      "nombre": "Crema Solar Isdin Fusion Water",
+      "descripcion": "Fotoprotector facial con textura de agua SPF 50+. Acabado invisible y no comedogénico. Resistente al agua y al sudor.",
+      "categoria": "cuidado_piel",
+      "precio": 22.90,
+      "porcentaje_descuento": 12.00,
+      "puntuacion": 4.70,
+      "stock": 180,
+      "etiquetas": ["solar", "SPF", "facial"],
+      "marca": "Isdin",
+      "sku": "SKI-ISD-FW-021",
+      "peso_g": 50,
+      "dimensiones": {
+        "ancho_cm": 4.50,
+        "alto_cm": 15.00,
+        "profundidad_cm": 3.00
+      },
+      "garantia": "1 año",
+      "envio": "Envío en 2-3 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "La mejor crema solar que he probado.", "fecha": "2024-04-25", "nombre_revisor": "Cristina Blanco"},
+        {"puntuacion": 5, "comentario": "No deja residuo blanco, perfecta.", "fecha": "2024-06-10", "nombre_revisor": "Mónica Aguilar"},
+        {"puntuacion": 4, "comentario": "Muy buena, algo cara.", "fecha": "2024-08-01", "nombre_revisor": "Susana Molina"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-04-01",
+        "codigo_barras": "8429420182714"
+      },
+      "en_oferta": true,
+      "proveedor": "Farmacia Digital S.L."
+    },
+    {
+      "id": 22,
+      "nombre": "Altavoz Bluetooth JBL Charge 5",
+      "descripcion": "Altavoz portátil Bluetooth con sonido potente y graves profundos. Resistente al agua IP67 y función banco de energía para cargar dispositivos.",
+      "categoria": "electronica",
+      "precio": 149.99,
+      "porcentaje_descuento": 16.00,
+      "puntuacion": 4.65,
+      "stock": 65,
+      "etiquetas": ["altavoz", "bluetooth", "portátil"],
+      "marca": "JBL",
+      "sku": "ELE-JBL-CH5-022",
+      "peso_g": 960,
+      "dimensiones": {
+        "ancho_cm": 22.10,
+        "alto_cm": 9.70,
+        "profundidad_cm": 9.60
+      },
+      "garantia": "1 año",
+      "envio": "Envío en 2-3 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "Sonido increíble para su tamaño.", "fecha": "2024-03-08", "nombre_revisor": "Nicolás Herrero"},
+        {"puntuacion": 4, "comentario": "Muy bueno, la función powerbank es genial.", "fecha": "2024-06-19", "nombre_revisor": "Alicia Pardo"},
+        {"puntuacion": 5, "comentario": "Perfecto para la playa y la piscina.", "fecha": "2024-08-28", "nombre_revisor": "Héctor Ibáñez"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-02-25",
+        "codigo_barras": "6925281968099"
+      },
+      "en_oferta": true,
+      "proveedor": "TechDistribución S.L."
+    },
+    {
+      "id": 23,
+      "nombre": "Tableta Gráfica Wacom Intuos M",
+      "descripcion": "Tableta gráfica inalámbrica de tamaño medio con 4096 niveles de presión. Compatible con Photoshop, Illustrator y otras aplicaciones creativas.",
+      "categoria": "informatica",
+      "precio": 109.99,
+      "porcentaje_descuento": 9.00,
+      "puntuacion": 4.45,
+      "stock": 42,
+      "etiquetas": ["tableta gráfica", "wacom", "diseño"],
+      "marca": "Wacom",
+      "sku": "INF-WAC-INT-023",
+      "peso_g": 475,
+      "dimensiones": {
+        "ancho_cm": 27.10,
+        "alto_cm": 1.20,
+        "profundidad_cm": 20.90
+      },
+      "garantia": "2 años",
+      "envio": "Envío en 2-4 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "Imprescindible para diseño digital.", "fecha": "2024-02-06", "nombre_revisor": "Vanesa Ortiz"},
+        {"puntuacion": 4, "comentario": "Muy buena sensibilidad, algo cara.", "fecha": "2024-05-20", "nombre_revisor": "Sergio Llorente"},
+        {"puntuacion": 4, "comentario": "Perfecta para ilustración y retoque.", "fecha": "2024-09-14", "nombre_revisor": "Andrea Cabello"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-02-12",
+        "codigo_barras": "4949268617178"
+      },
+      "en_oferta": false,
+      "proveedor": "Ofimedia S.L."
+    },
+    {
+      "id": 24,
+      "nombre": "Aceite de Oliva Virgen Extra Castillo de Canena",
+      "descripcion": "Aceite de oliva virgen extra de cosecha temprana variedad Arbequina. Producción ecológica en Jaén. Intensidad afrutada con notas de almendra y tomate.",
+      "categoria": "alimentacion",
+      "precio": 18.50,
+      "porcentaje_descuento": 0.00,
+      "puntuacion": 4.90,
+      "stock": 95,
+      "etiquetas": ["aceite", "oliva", "ecológico"],
+      "marca": "Castillo de Canena",
+      "sku": "ALI-CCA-AO-024",
+      "peso_g": 750,
+      "dimensiones": {
+        "ancho_cm": 8.50,
+        "alto_cm": 28.00,
+        "profundidad_cm": 8.50
+      },
+      "garantia": "Sin garantía",
+      "envio": "Envío en 3-5 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "El mejor AOVE que he probado.", "fecha": "2024-01-14", "nombre_revisor": "Rosario Campos"},
+        {"puntuacion": 5, "comentario": "Aroma y sabor excepcionales.", "fecha": "2024-03-28", "nombre_revisor": "Francisco Bermúdez"},
+        {"puntuacion": 4, "comentario": "Muy bueno, algo caro para uso diario.", "fecha": "2024-06-05", "nombre_revisor": "Remedios Vega"}
+      ],
+      "politica_devolucion": "Sin devoluciones",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-01-03",
+        "codigo_barras": "8437007380107"
+      },
+      "en_oferta": false,
+      "proveedor": "Gourmet & Food S.A."
+    },
+    {
+      "id": 25,
+      "nombre": "Proteína Whey Optimum Nutrition Gold Standard",
+      "descripcion": "Proteína de suero de leche con 24g de proteína por ración. Sabor chocolate doble, baja en azúcares y con aminoácidos esenciales para la recuperación muscular.",
+      "categoria": "nutricion_deporte",
+      "precio": 59.99,
+      "porcentaje_descuento": 10.00,
+      "puntuacion": 4.55,
+      "stock": 130,
+      "etiquetas": ["proteína", "whey", "fitness"],
+      "marca": "Optimum Nutrition",
+      "sku": "NUT-ON-WGS-025",
+      "peso_g": 908,
+      "dimensiones": {
+        "ancho_cm": 15.00,
+        "alto_cm": 22.00,
+        "profundidad_cm": 15.00
+      },
+      "garantia": "Sin garantía",
+      "envio": "Envío en 2-3 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "La mejor proteína del mercado.", "fecha": "2024-02-03", "nombre_revisor": "Daniel Soto"},
+        {"puntuacion": 4, "comentario": "Buen sabor y se mezcla bien.", "fecha": "2024-04-29", "nombre_revisor": "Iván Marín"},
+        {"puntuacion": 5, "comentario": "Llevo años tomándola, nunca falla.", "fecha": "2024-07-16", "nombre_revisor": "Enrique Gallego"}
+      ],
+      "politica_devolucion": "Sin devoluciones",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-02-07",
+        "codigo_barras": "0748927059830"
+      },
+      "en_oferta": true,
+      "proveedor": "Nutrición & Sport S.L."
+    },
+    {
+      "id": 26,
+      "nombre": "Cámara Mirrorless Sony A6700",
+      "descripcion": "Cámara mirrorless APS-C con sensor de 26 MP, estabilización de imagen en 5 ejes, vídeo 4K a 120fps y autoenfoque con inteligencia artificial.",
+      "categoria": "fotografia",
+      "precio": 1399.00,
+      "porcentaje_descuento": 5.00,
+      "puntuacion": 4.80,
+      "stock": 15,
+      "etiquetas": ["cámara", "mirrorless", "sony"],
+      "marca": "Sony",
+      "sku": "FOT-SON-A67-026",
+      "peso_g": 493,
+      "dimensiones": {
+        "ancho_cm": 12.20,
+        "alto_cm": 6.90,
+        "profundidad_cm": 6.90
+      },
+      "garantia": "2 años",
+      "envio": "Envío en 2-4 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "El AF con IA es una pasada.", "fecha": "2024-03-20", "nombre_revisor": "Martina Solís"},
+        {"puntuacion": 5, "comentario": "Vídeo y foto de altísima calidad.", "fecha": "2024-06-07", "nombre_revisor": "Borja Pedraza"},
+        {"puntuacion": 4, "comentario": "Muy buena pero la batería flojea.", "fecha": "2024-09-23", "nombre_revisor": "Olga Rueda"}
+      ],
+      "politica_devolucion": "14 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-03-15",
+        "codigo_barras": "4548736153028"
+      },
+      "en_oferta": false,
+      "proveedor": "TechDistribución S.L."
+    },
+    {
+      "id": 27,
+      "nombre": "Juego de Sábanas Percal 200 hilos",
+      "descripcion": "Juego de sábanas de algodón percal 200 hilos para cama de 150 cm. Incluye bajera ajustable, encimera y dos fundas de almohada. Tacto suave y fresco.",
+      "categoria": "hogar",
+      "precio": 49.95,
+      "porcentaje_descuento": 30.00,
+      "puntuacion": 4.35,
+      "stock": 80,
+      "etiquetas": ["sábanas", "hogar", "algodón"],
+      "marca": "Belnou",
+      "sku": "HOG-BEL-SAB-027",
+      "peso_g": 1100,
+      "dimensiones": {
+        "ancho_cm": 40.00,
+        "alto_cm": 10.00,
+        "profundidad_cm": 30.00
+      },
+      "garantia": "Sin garantía",
+      "envio": "Envío en 3-5 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 4, "comentario": "Tacto muy agradable y suave.", "fecha": "2024-01-22", "nombre_revisor": "Milagros Santos"},
+        {"puntuacion": 5, "comentario": "Las mejores sábanas que he tenido.", "fecha": "2024-04-08", "nombre_revisor": "Yolanda Cruz"},
+        {"puntuacion": 3, "comentario": "El color difiere algo de la foto.", "nombre_revisor": "Petra Jiménez", "fecha": "2024-07-13"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-01-16",
+        "codigo_barras": "8434644045015"
+      },
+      "en_oferta": true,
+      "proveedor": "Hogar Premium S.A."
+    },
+    {
+      "id": 28,
+      "nombre": "Lámpara de Escritorio LED BenQ ScreenBar",
+      "descripcion": "Lámpara de escritorio para monitor con sensor de luz automático, temperatura de color ajustable y diseño sin deslumbramiento. Se sujeta al monitor sin cables.",
+      "categoria": "oficina",
+      "precio": 89.00,
+      "porcentaje_descuento": 0.00,
+      "puntuacion": 4.70,
+      "stock": 50,
+      "etiquetas": ["lámpara", "LED", "escritorio"],
+      "marca": "BenQ",
+      "sku": "OFI-BEN-SCB-028",
+      "peso_g": 530,
+      "dimensiones": {
+        "ancho_cm": 45.00,
+        "alto_cm": 9.20,
+        "profundidad_cm": 11.00
+      },
+      "garantia": "3 años",
+      "envio": "Envío en 2-3 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "Imprescindible para trabajar de noche.", "fecha": "2024-02-27", "nombre_revisor": "Eduardo Méndez"},
+        {"puntuacion": 4, "comentario": "Muy buena iluminación, montaje fácil.", "fecha": "2024-05-14", "nombre_revisor": "Lorena Pascual"},
+        {"puntuacion": 5, "comentario": "El sensor automático es una maravilla.", "fecha": "2024-08-19", "nombre_revisor": "Tomás Aranda"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-02-22",
+        "codigo_barras": "4718755068422"
+      },
+      "en_oferta": false,
+      "proveedor": "Ofimedia S.L."
+    },
+    {
+      "id": 29,
+      "nombre": "Juego de Mesa Catan",
+      "descripcion": "El clásico juego de estrategia y recursos para 3-4 jugadores. Construye colonias, consigue recursos e intercambia con otros jugadores para ganar.",
+      "categoria": "juegos",
+      "precio": 42.99,
+      "porcentaje_descuento": 20.00,
+      "puntuacion": 4.85,
+      "stock": 55,
+      "etiquetas": ["juego de mesa", "estrategia", "familia"],
+      "marca": "Devir",
+      "sku": "JUE-DEV-CAT-029",
+      "peso_g": 1200,
+      "dimensiones": {
+        "ancho_cm": 29.70,
+        "alto_cm": 7.50,
+        "profundidad_cm": 29.70
+      },
+      "garantia": "Sin garantía",
+      "envio": "Envío en 2-4 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "El mejor juego de mesa de la historia.", "fecha": "2024-01-31", "nombre_revisor": "Pablo Fuente"},
+        {"puntuacion": 5, "comentario": "Horas y horas de diversión familiar.", "fecha": "2024-04-24", "nombre_revisor": "Carolina Muñoz"},
+        {"puntuacion": 4, "comentario": "Muy bueno, algo complejo al principio.", "fecha": "2024-07-27", "nombre_revisor": "Sebastián Haro"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-01-25",
+        "codigo_barras": "8432112001282"
+      },
+      "en_oferta": true,
+      "proveedor": "Juguetes & Ocio S.L."
+    },
+    {
+      "id": 30,
+      "nombre": "Aspirador Robot Roomba j7+",
+      "descripcion": "Robot aspirador con vaciado automático de la base, cámara frontal para evitar obstáculos en tiempo real y mapeo inteligente por habitaciones.",
+      "categoria": "hogar",
+      "precio": 699.00,
+      "porcentaje_descuento": 18.00,
+      "puntuacion": 4.60,
+      "stock": 22,
+      "etiquetas": ["aspirador", "robot", "hogar"],
+      "marca": "iRobot",
+      "sku": "HOG-IRO-RJ7-030",
+      "peso_g": 3500,
+      "dimensiones": {
+        "ancho_cm": 33.90,
+        "alto_cm": 8.92,
+        "profundidad_cm": 33.90
+      },
+      "garantia": "2 años",
+      "envio": "Envío en 3-5 días laborables",
+      "estado": "En stock",
+      "reseñas": [
+        {"puntuacion": 5, "comentario": "Evita obstáculos de forma increíble.", "fecha": "2024-03-03", "nombre_revisor": "Lourdes Cano"},
+        {"puntuacion": 4, "comentario": "Muy silencioso y eficaz.", "fecha": "2024-06-22", "nombre_revisor": "Alfonso Reina"},
+        {"puntuacion": 5, "comentario": "El vaciado automático es lo mejor.", "fecha": "2024-10-09", "nombre_revisor": "Encarnación Pizarro"}
+      ],
+      "politica_devolucion": "30 días",
+      "cantidad_minima_pedido": 1,
+      "meta": {
+        "fecha_creacion": "2024-03-05",
+        "codigo_barras": "0885155026352"
+      },
+      "en_oferta": true,
+      "proveedor": "Hogar Premium S.A."
+    }
+  ],
+  "total": 30,
+  "skip": 0,
+  "limite": 30
+}
